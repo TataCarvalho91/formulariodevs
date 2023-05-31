@@ -1,2 +1,2 @@
 #Repositório criado com um vídeo da Rafaella  Ballerini.
-*Aprendendo como criar um foemulário com HTML e CSS
+##Aprendendo a criar um formulário com HTML e CSS.
